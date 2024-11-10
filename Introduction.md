@@ -18,8 +18,12 @@
 
 **Contract consists:**
 1. State variables
-2. Structure definitions
-3. Modifier definitions
-4. Event declarations
-5. Enumeration definitions
-6. Function definitions
+   * internal - can be called in the current contract and any contract which inherits it
+   * private - can only be used in current contract
+   * public - can be accessed directly, solidity compiler generates a getter function for each public variable
+   * constant - makes the variable immutable, the value must be assigned at declaration itself
+3. Structure definitions
+4. Modifier definitions
+5. Event declarations
+6. Enumeration definitions
+7. Function definitions
