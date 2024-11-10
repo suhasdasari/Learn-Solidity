@@ -5,7 +5,7 @@
 * It is influenced by C++, Python, and JavaScript, making it relatively easy to learn for developers familiar with these languages2.
 
 **Key Features of Solidity**
-Contract-oriented: Smart contracts are the core building blocks in Solidity.
-Runs on the Ethereum Virtual Machine (EVM)1.
-Statically typed language.
-Supports inheritance, libraries, and user-defined types2.
+* Contract-oriented: Smart contracts are the core building blocks in Solidity.
+* Runs on the Ethereum Virtual Machine (EVM)1.
+* Statically typed language.
+* Supports inheritance, libraries, and user-defined types2.
